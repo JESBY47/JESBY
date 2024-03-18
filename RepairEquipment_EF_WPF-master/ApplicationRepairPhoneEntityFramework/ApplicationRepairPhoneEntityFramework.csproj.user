@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\ptkuz\source\repos\ApplicationRepairPhoneEntityFramework\ApplicationRepairPhoneEntityFramework\Properties\PublishProfiles\FolderProfile1.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="AddClientWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="AddDetailsWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="AddDeviceWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="AddEmployeeWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="AuthorizationWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="CreateOrderWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="DirectorMenuWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ManagerMenuWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="MasterMenuWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ViewAllOrdersManagerWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ViewAllOrdersWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ViewClientsWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="PerformanceWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ViewDetailsWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ViewDevicesWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ViewEmployeeWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ViewMasterOrderWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="AddClientWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="AddDetailsWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="AddDeviceWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="AddEmployeeWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="AuthorizationWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="CreateOrderWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="DirectorMenuWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ManagerMenuWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MasterMenuWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ViewAllOrdersManagerWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ViewAllOrdersWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ViewClientsWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="PerformanceWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ViewDetailsWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ViewDevicesWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ViewEmployeeWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ViewMasterOrderWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>
